@@ -1,4 +1,4 @@
 packethierarchy
 ===============
 
-Packet Hierarchy Plugin Sample
+Packet Hierarchy Plugin Sample for Oracle BI Mobile App Designer
